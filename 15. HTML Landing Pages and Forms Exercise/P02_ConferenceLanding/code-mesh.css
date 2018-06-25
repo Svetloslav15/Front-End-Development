@@ -1,0 +1,232 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+header {
+    background: linear-gradient(rgba(79, 82, 92, .6), rgba(76, 79, 88, .8)), url(img/header-bg.png);
+    height: 43em;
+    color: #fff;
+    background-size: cover;
+}
+
+header ul {
+    float: right;
+    padding: 8px;
+}
+
+header ul li {
+    display: inline-block;
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+header ul li:hover {
+    color: #cb6427;
+}
+
+header h1 {
+    margin-left: 9em;
+    margin-top: 7em;
+    width: 19em;
+    text-align: justify;
+    display: inline-block;
+}
+
+header h1 > span, header ul li {
+    font-weight: 700;
+}
+
+header:first-of-type > i {
+    margin-left: 60px;
+}
+
+header > h3 {
+    display: inline-block;
+    padding: 28px;
+    text-transform: uppercase;
+}
+
+header section {
+    display: flex;
+    margin: 50px;
+    margin-left: 60px;
+}
+
+header section article {
+    width: 19em;
+    height: 200px;
+}
+
+header section article:hover {
+    border-bottom: 5px solid #CB6427;
+}
+
+header section article > p {
+    padding-top: 30px;
+}
+
+main section article {
+    width: 28em;
+    display: inline-block;
+    vertical-align: top;
+}
+#last{
+    background-color: rgba(253, 135, 82, 0.8);
+    height: 30em;
+    position: relative;
+    bottom: 27em;
+    right: -60em;
+    width: 30em;
+}
+body>main>section>article:nth-child(1)>p{
+    color: black;
+    font-weight: bold;
+    width: 10em;
+    font-size: 21px;
+    text-align: right;
+    padding-top: 30px;
+}
+body>main>section>article:nth-child(1)>span{
+    text-transform: capitalize;
+    margin-left: 103px;
+    margin-top: 21em;
+}
+body>main>#third-section>article:nth-child(2)>p:first-of-type{
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    width: 19em;
+    padding-bottom: 50px;
+}
+#sec{
+    padding-top: 45px;
+    font-weight: bold;
+}
+#third-section{
+    background-color: #3C3E4A;
+    color: white;
+    height: 34em;
+}
+#third-section>h2{
+    padding: 48px 0 0 53px;
+}
+#third-section > article{
+    margin-left: 14em;
+    padding-top: 5em;
+}
+#third-section i
+{
+    height: 13px;
+    border-radius: 50px;
+    padding: 15px;
+    background-color: #F8682B;
+}
+#third-section article > div{
+    padding: 10px;
+}
+#fourth-section{
+    margin-left: 16em;
+    width: 80%;
+}
+#fourth-section article{
+    width: 23%;
+    box-shadow: 10px 10px 15px -5px rgba(0,0,0,0.25);
+    margin: 25px 12px 12px 12px;
+    height: 20em;
+
+}
+#fourth-section article img{
+    width: 90%;
+}
+#fourth-section article h3{
+    width: 12em;
+    display: inline-block;
+    padding-bottom: 20px;
+}
+#fourth-section article p{
+    color: #F8682B;
+}
+#fourth-section article h3, p{
+    text-transform: capitalize;
+}
+#fourth-section div {
+    margin-left: -12em;
+    margin-top: 3em;
+    width: 60%;
+}
+#fourth-section div h2{
+    display: inline-block;
+    width: 13em;
+}
+#fourth-section div p{
+    width: 41em;
+    position: relative;
+    bottom: 3em;
+    left: 30em;
+}
+#fifth-section{
+    background-color: #3B3E49;
+    color: white;
+    text-align: center;
+}
+#fifth-section form{
+    border: 2px solid white;
+    width: 70%;
+    margin: 30px 0 30px 0;
+}
+#fifth-section form h2{
+    font-size: 30px;
+    padding: 37px 20px 0 20px;
+}
+#fifth-section form p {
+    font-size: 20px;
+    width: 59%;
+    text-align: center;
+    padding-left: 10em;
+    color: white;
+    margin-bottom: 50px;
+}
+#fifth-section form input{
+    background: none;
+    outline: none;
+    border: none;
+    color: white;
+    margin-bottom: 40px;
+    border-bottom: 2px solid #FC691E;
+}
+button{
+    background-color: #FC691E;
+    border-radius: 20px;
+    width: 10em;
+    height: 20px;
+    margin-bottom: 40px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+footer{
+    text-transform: uppercase;
+    color: white;
+    background-color: #282A30;
+    height: 50px;
+}
+footer p{
+    margin: 15px;
+    display: inline-block;
+}
+#first-p{
+    float: left;
+}
+#second-p{
+    float: right;
+}

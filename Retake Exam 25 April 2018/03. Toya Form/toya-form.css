@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Roboto, sans-serif;
+}
+
+#header{
+    background: #9ACB34;
+    text-align: center;
+    color: white;
+}
+
+body section:nth-child(1) h1{
+    padding: 18px;
+}
+body section:nth-child(1) p{
+    padding-bottom: 26px;
+}
+body section:nth-child(2){
+    display: flex;
+    text-align: center;
+    margin: 30px;
+    justify-content: center;
+}
+body section:nth-child(2) div{
+    margin-right: 45px;
+}
+body section:nth-child(2) div h3{
+    text-transform: uppercase;
+    color: #ACCC63;
+}
+body section:nth-child(2) div p{
+    color: #CDCDCD;
+}
+img{
+    width: 90%;
+}
+#main{
+    display: flex;
+}
+#main section{
+    width: 100%;
+    margin-left: 20px;
+}
+#main section p{
+    width: 86%;
+    color: #CDCDCD;
+}
+form label{
+    display: inline-block;
+    width: 42%;
+}
+form label p{
+    color: #CDCDCD;
+    margin: 10px 0 10px 0;
+}
+form label input{
+    height: 26px;
+    border: 1px solid gray;
+    padding: 3px;
+}
+textarea{
+    margin-top: 20px;
+    width: 68%;
+    padding: 15px;
+}
+#button{
+    padding: 10px;
+    color: white;
+    border: none;
+    background-color: #9ACB34;
+    display: block;
+    margin-top: 20px;
+    cursor: pointer;
+}
+span{
+    color: #ACCC63;
+}

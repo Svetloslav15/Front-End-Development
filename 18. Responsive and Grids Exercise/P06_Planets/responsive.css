@@ -1,0 +1,16 @@
+﻿@media only screen and (min-width: 756px) and (max-width: 999px){
+    .p-photos-block{
+        display: inline-block;
+        width: 30%;
+    }
+    #sun{
+        margin-left: 13em;
+    }
+}
+
+@media only screen and (max-width: 755px){
+    .p-photos-block{
+        display: inline-block;
+        width: 50%;
+    }
+}

@@ -1,0 +1,18 @@
+@media only screen and (max-width: 1200px) and (min-width: 731px){
+    main section{
+        display: block;
+        width: 94%;
+    }
+    main aside{
+        display: flex;
+        flex-flow: column;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 730px) and (min-width: 500px) {
+    header nav > ul li{
+        display: block;
+        width: 100%;
+    }
+}

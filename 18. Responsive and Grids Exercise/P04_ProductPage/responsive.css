@@ -1,0 +1,31 @@
+@media only screen and (max-width: 639px) {
+    main section#products-liked-list ul {
+        display: flex;
+        flex-flow: column;
+    }
+
+    header div.wrap div#header-top-area h1 {
+        display: block;
+        width: 100%;
+    }
+
+    main section#products-liked-list ul li{
+        position: unset;
+        width: 100%;
+        margin: 0 auto;
+    }
+    #header-bottom-area{
+        display: none;
+    }
+    #product-menu{
+        display: block;
+    }
+    #product-menu:hover .submenu{
+        display: block;
+    }
+    #product-menu:hover .product-type ul.submenu li a{
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+}

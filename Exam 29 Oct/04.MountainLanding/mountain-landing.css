@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Lato, sans-serif;
+}
+
+header {
+    background: url("images/header.jpg");
+    background-size: cover;
+    height: 500px;
+    color: white;
+    justify-content: center;
+}
+
+header img {
+    margin: 1em 0 0 18em;
+}
+
+nav {
+    display: inline-block;
+    margin-left: 10em;
+}
+
+#navigation {
+    margin-top: 1em;
+    display: inline-flex;
+}
+
+#navigation li {
+    list-style: none;
+    margin-left: 2em;
+}
+
+main {
+    font-family: Montserrat, sans-serif;
+    color: #B7BAC2;
+}
+
+header h1 {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 40px;
+    margin-top: 3em;
+    text-shadow: 2px 2px 7px black;
+    width: 34%;
+}
+
+header p {
+    text-shadow: 2px 2px 7px black;
+    text-align: center;
+    width: 36%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+header button {
+    color: white;
+    background: #CABC9A;
+    padding: 6px;
+    width: 119px;
+    border: none;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-left: 46em;
+    margin-top: 2em;
+    cursor: pointer;
+    outline: none;
+}
+
+#about-us {
+    text-align: center;
+    margin-bottom: 5em;
+}
+
+#about-us section {
+    margin: 5em;
+}
+
+#about-us section h2 {
+    color: #393A2C;
+    margin-bottom: 10px;
+}
+
+#articles {
+    display: flex;
+    justify-content: center;
+    background: #F6F6F6;
+}
+
+.article {
+    text-align: center;
+    width: 25%;
+    margin: 3em 1em;
+}
+
+.article img {
+    width: 50px;
+}
+
+.article h3 {
+    color: #393A2C;
+}
+
+#our-team{
+    text-align: center;
+}
+#our-team section{
+    display: flex;
+    justify-content: center;
+}
+.headings{
+    margin-top: 3em;
+    color: #393A2C;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.paragraph{
+    margin-bottom: 2em;
+    font-style: italic;
+    text-align: center;
+}
+#our-team section article{
+    width: 30%;
+}
+#our-team section article img{
+    width: 47%;
+    margin: 1em 0;
+}
+#latest-news{
+    background: #F6F6F6;
+    padding-bottom: 3em;
+}
+
+#latest-news article{
+    display: inline-flex;
+    width: 39%;
+    margin-left: 6em;
+    box-shadow: 1px 10px 14px 5px rgba(199,193,199,1);
+}
+#latest-news img{
+    width: 57%;
+    height: 249px;
+}
+#latest-news article h3, p{
+    margin: 5px;
+    padding-left: 1em;
+}
+#latest-news h2{
+    padding-top: 2em;
+}

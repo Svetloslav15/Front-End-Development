@@ -1,0 +1,21 @@
+@import "fonts/OpenSans-ExtraBold.ttf";
+body{
+    background-color: #F0F0E8;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #009288;
+    font-size: 5em;
+}
+article{
+    width: 20%;
+    display: inline-block;
+    padding-right: 10px;
+    border: 10px solid #F0F0E8;
+}
+article:hover{
+    background-color: white;
+    border-left: 10px solid #009288;
+}

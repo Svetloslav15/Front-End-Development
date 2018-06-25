@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+body{
+    font-family: Titillium Web;
+}
+p{
+    font-weight: bold;
+}
+form{
+    width: 50%;
+    margin: 0 auto;
+}
+section{
+    display: flex;
+}
+input{
+    width: 96%;
+    padding: 10px;
+}
+#first-row {
+    width: 100%;
+}
+input:hover{
+    border: 2px solid #FCA200;
+}
+h1{
+    border-bottom: 2px solid #FCA200;
+    padding-bottom: 10px;
+}
+#weight, #fragile{
+    width: 40%;
+    margin-right: 10em;
+}
+#weight input{
+    width: 15em;
+}
+select{
+    width: 17em;
+    padding: 10px;
+}
+#length, #height, #width{
+    width: 30%;
+}
+#third-row label{
+    margin-right: 2em;
+}
+#third-row{
+    margin-bottom: 20px;
+}
+#services label{
+    width: 35%;
+    font-weight: bold;
+}
+#services label input{
+    width: 41px;
+}
+section:last-child{
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    padding: 20px 0;
+    font-weight: bold;
+    margin-top: 15px;
+}
+#bill{
+    margin-left: 30em;
+    color: #FCA200;
+}

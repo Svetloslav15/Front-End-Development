@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #867260;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+}
+body > nav{
+   color: #ffffff;
+}
+nav, header {
+    background-color: #C0A991;
+}
+
+header {
+    padding-bottom: 25px;
+}
+
+.brand {
+    display: inline-block;
+    float: left;
+    font-size: 20px;
+    padding-left: 8px;
+    font-weight: bold;
+    margin: 8px;
+}
+
+.nav-primary {
+    display: inline-block;
+    float: right;
+    margin: 8px;
+}
+
+.nav-item {
+    display: inline-block;
+    margin: 5px;
+    text-transform: uppercase;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-item.button-cta {
+    border: 2px solid white;
+    padding: 6px;
+    border-radius: 25px;
+}
+
+.nav-item.button-cta:hover {
+    background-color: #867260;
+    border: #867260;
+}
+
+.header-title {
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 31px;
+    padding-top: 151px
+}
+
+.header-subtitle {
+    text-align: center;
+}
+
+.header-potato {
+    margin-left: 40%;
+    width: 20%;
+    height: 200px;
+    padding-top: 10px;
+}
+
+main {
+    background: url("images/potato-background.png");
+    color: #8E7B74;
+}
+
+.features {
+    text-align: center;
+}
+
+.features-title {
+    text-transform: capitalize;
+    padding-top: 7em;
+}
+
+.feature-potatoes {
+    width: 35%;
+}
+
+.features-subtitle {
+    font-size: 14px;
+    width: 40%;
+    padding-left: 30%;
+}
+
+.buy-now {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    text-align: center;
+}
+
+.potato-img {
+    width: 30%;
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+.potato-features {
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+    background-color: #867260;
+    margin: 11px;
+}
+
+.order-title {
+    text-transform: capitalize;
+    padding-bottom: 38px;
+    font-size: 30px;
+}
+
+.potato {
+    width: 30%;
+    display: inline-block;
+    border-right: 2px solid #C0A991;
+}
+
+.potato-title {
+    text-transform: capitalize;
+}
+
+.btn-order {
+    display: block;
+    background: white;
+    border: 2px solid #A9D451;
+    border-radius: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 5px;
+    color: #A9D451;
+    width: 80px;
+    margin-left: 40%;
+}
+
+.potato-description {
+    padding: 5px;
+}
+.potato-price{
+    padding: 5px;
+}

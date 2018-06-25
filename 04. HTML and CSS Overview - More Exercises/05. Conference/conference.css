@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+nav {
+    color: #5D7F7A;
+    font-size: 18px;
+}
+
+ul li {
+    display: inline-block;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+
+p#period {
+    float: right;
+    color: #5D7F7A;
+    font-size: 16px;
+    margin: 10px;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    text-transform: uppercase;
+    font-size: 50px;
+    color: white;
+}
+
+header p {
+    color: gray;
+    font-size: 16px;
+}
+
+header p#semi {
+    color: #5D7F7A;
+    font-size: 20px;
+}
+
+header button {
+    background-color: transparent;
+    cursor: pointer;
+    border: 2px solid white;
+    text-transform: uppercase;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    margin: 20px;
+}
+header button:hover{
+    background-color: white;
+    color: #5D7F7A;
+}
+body {
+    background-color: #293F50;
+}
+
+main {
+    background-color: white;
+}
+
+main article {
+    display: inline-block;
+    margin: 6px;
+    padding: 10px;
+    width: 25%;
+}
+main article h3, h4{
+    color: #5D7F7A;
+}
+main article p{
+    color: gray;
+}
+main article img {
+    width: 230px;
+    height: 150px;
+    border-radius: 5px;
+}
+div{
+    width: 90%;
+    height: 300px;
+}
+footer {
+    font-size: 16px;
+    color: white;
+    margin: 10px;
+}
+
+footer p {
+    float: left;
+}
+
+footer ul {
+    display: inline-block;
+    float: right;
+    font-size: 14px;
+}

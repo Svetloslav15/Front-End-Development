@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+section{
+    margin-left: 67px;
+}
+h1{
+    text-align: center;
+    margin: 20px 0 30px 0;
+}
+article{
+    display: inline-block;
+    width: 23%;
+    margin-right: 5em;
+    margin-left: 2em;
+}
+img{
+    width: 100%;
+}
+p{
+    color: #B7B6B8;
+}
+span{
+    color: #4A61BF;
+}

@@ -1,0 +1,59 @@
+@media all and (max-width: 479px) {
+    .menu ul{
+        display: none;
+    }
+    .menu span{
+        position:relative;
+        right: 9em;
+        top: 1em;
+    }
+    .about-us{
+        padding-left: 5px;
+    }
+    .about-us p{
+        width: 100%;
+    }
+    .headings{
+        font-size: 18px;
+        width: 100%;
+        margin-top: 0;
+    }
+    .paragraph{
+        width: 89%;
+    }
+    .views{
+        display: flex;
+        flex-flow: column;
+    }
+    #second-heading {
+        width: 100%;
+        margin-top: 32em;
+    }
+    .why-us{
+        display: flex;
+        flex-flow: column;
+    }
+    .why-us article{
+        justify-content: center;
+        width: 100%;
+    }
+    .headings:last-of-type{
+        width: 99%;
+        margin-top: 17px
+    }
+    .our-team{
+        display: flex;
+        flex-flow: column;
+    }
+    .our-team article{
+        justify-content: center;
+        width: 80%;
+        margin-left: 2em;
+    }
+    .our-team article img{
+        width: 100%;
+    }
+    .views img {
+        margin: 13px 10px;
+    }
+}

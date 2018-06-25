@@ -1,0 +1,14 @@
+div#wrapped{
+    background-color: #dddddd;
+    border: 2px solid black;
+}
+div#wrapped  h1{
+    text-align: center;
+}
+div#wrapped  p{
+    font-size: 18px;
+    margin-left: 20px;
+}
+div#wrapped h2{
+    margin-left: 20px;
+}

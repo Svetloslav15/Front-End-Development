@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #F4F4F4;
+}
+img{
+    width: 100%;
+}
+section{
+    margin: 4em 0 0 10em;
+}
+article{
+    display: inline-block;
+    width: 20%;
+    float: left;
+    margin-right: 20px;
+    text-align: center;
+    background: white;
+    height: 220px;
+}
+
+h2{
+    font-size: 20px;
+    margin: 10px;
+    font-style: italic;
+}
+p{
+    color: gray;
+    margin-bottom: 10px;
+    font-size: 13px;
+    margin: 0px 0px 10px 2px;
+}
+button{
+    color: #E79C82;
+    width: 100%;
+    height: 39px;
+    background: white;
+    border: none;
+    border-top: 2px solid #E79C82;
+}

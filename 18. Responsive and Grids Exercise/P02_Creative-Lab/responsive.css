@@ -1,0 +1,77 @@
+@media only screen and (max-width: 980px) and (min-width: 640px){
+    body #wrapper > header nav ul {
+        flex-flow: column;
+        padding-left: 4em;
+    }
+    body #wrapper > header nav ul li{
+        width: 90%;
+        margin: 5px;
+    }
+    body #wrapper > header h1 a{
+        flex-flow: column;
+        margin: auto;
+    }
+    body #wrapper > header h1 a span{
+        padding-top: unset;
+        padding-right: unset;
+        margin: auto;
+        position: relative;
+        bottom: 1em;
+        left: -1em;
+    }
+    body #wrapper > header h1 a img{
+        position: relative;
+        left: 7em;
+        margin-bottom: 29px;
+    }
+    body #wrapper > section{
+        width: 100%;
+    }
+    body #wrapper > aside{
+        flex-flow: row;
+        width: 100%;
+    }
+    body #wrapper > aside div{
+        width: 49%;
+        margin: 10px;
+    }
+}
+
+@media only screen and (max-width: 640px){
+    body #wrapper > header nav ul {
+        flex-flow: column;
+        padding-left: 4em;
+    }
+    body #wrapper > header nav ul li{
+        width: 90%;
+        margin: 5px;
+    }
+    body #wrapper > header h1 a{
+        flex-flow: column;
+        margin: auto;
+    }
+    body #wrapper > header h1 a span{
+        padding-top: unset;
+        padding-right: unset;
+        margin: auto;
+        position: relative;
+        bottom: 1em;
+        left: -1em;
+    }
+    body #wrapper > header h1 a img{
+        position: relative;
+        left: 7em;
+        margin-bottom: 29px;
+    }
+    body #wrapper > section{
+        width: 100%;
+    }
+    body #wrapper > aside{
+        flex-flow: column;
+        width: 100%;
+    }
+    body #wrapper > aside div{
+        width: 100%;
+        margin: 10px;
+    }
+}

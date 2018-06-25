@@ -1,0 +1,178 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+* {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    font-family: 'Open Sans', sans-serif
+}
+
+header {
+    background: url(images/bg-01-1920x908.jpg);
+    background-size: cover;
+    height: 35em;
+    color: #fff
+}
+
+header section:first-child img {
+    margin: 24px
+}
+
+.buy-tickets {
+    background: #ff4514;
+    color: #fff;
+    border: 0;
+    border-radius: 8px;
+    width: 113px;
+    height: 29px
+}
+
+header section:first-child button {
+    position: relative;
+    bottom: 2em;
+    left: 64em
+}
+
+header section:nth-child(2) h1 {
+    text-align: center;
+    font-size: 63px;
+    letter-spacing: 10px;
+    margin-top: 1em
+}
+
+header section:nth-child(2) p {
+    text-align: center;
+    width: 70%;
+    margin: 5em auto 0
+}
+
+#btn-one {
+    margin-left: 33em;
+    margin-top: 4em;
+    margin-right: 1em;
+    width: 144px
+}
+
+#btn-two {
+    width: 144px;
+    background: 0 0;
+    color: #fff;
+    border-radius: 8px;
+    border: 2px solid #ff4514;
+    height: 29px;
+    font-size: 12px
+}
+
+#main-first, #main-first h1, #main-second, #main-second > p {
+    text-align: center
+}
+
+footer {
+    background: #191919;
+    color: #fff
+}
+
+#main-first h1 {
+    margin: 2em;
+    font-size: 37px
+}
+
+#main-second h1 {
+    position: relative;
+    top: 2em;
+    margin: 5em;
+    font-size: 37px
+}
+
+#main-second {
+    background-color: #fff;
+    margin-bottom: 20px
+}
+
+.article-learn img {
+    margin-bottom: 51px
+}
+
+.article-learn h2, .article-learn h3 {
+    margin-bottom: 10px;
+    font-size: 20px
+}
+
+.article-learn h3 {
+    color: #000;
+    font-size: 15px
+}
+
+#main-second > p {
+    margin-bottom: 25px;
+    position: relative;
+    bottom: 3em;
+    color: #cdcdcd;
+    font-size: 20px
+}
+
+#main-second article img {
+    border-radius: 100px
+}
+
+.position {
+    color: #ff4514;
+    margin: 10px 0
+}
+
+.article-learn {
+    width: 30%;
+    margin: 0;
+    padding: 0;
+    display: inline-block
+}
+
+footer img {
+    padding: 37px
+}
+
+footer div {
+    padding: 10px 0 10px 37px
+}
+
+footer h4 {
+    font-style: italic
+}
+
+footer p {
+    color: #6c706a
+}
+
+footer div div, footer span {
+    position: relative;
+    bottom: 1em
+}
+
+footer div div {
+    display: inline-block;
+    width: 42%;
+    padding: 0
+}
+
+footer > p {
+    text-align: center;
+    padding: 10px
+}
+
+footer span {
+    left: 32em;
+    font-style: italic;
+    color: gray
+}
+
+#joe-doa-p {
+    color: #fff;
+    margin-top: 8px
+}
+
+#main-second, footer {
+    position: relative;
+    bottom: 14em
+}

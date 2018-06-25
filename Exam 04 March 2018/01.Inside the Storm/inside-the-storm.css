@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #D3D3D3;
+    font-family: 'Oxygen', sans-serif;
+}
+article{
+    display: inline-block;
+    width: 24%;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    position: relative;
+    bottom: 3em;
+}
+#help{
+    left: 4em;
+    bottom: 6em;
+    position: relative;
+    border-bottom: 2px dotted red;
+    border-top: 2px dotted red;
+    text-align: center;
+    width: 60%;
+}
+.left{
+    padding: 1em;
+    position: relative;
+    bottom: 8em;
+    left: 2em;
+}
+#call{
+    color: red;
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+    bottom: 5em;
+}
+#end{
+    color: blue;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    bottom: 8em;
+}
+button{
+    background-color: #F4A361;
+    color: white;
+    width: 13em;
+    height: 3em;
+    text-align: center;
+    font-size: 16px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    margin: 18px 0 50px 48px;
+    position: relative;
+    bottom: 7em;
+}

@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #848688;
+}
+
+form {
+    background-color: #f7f7f7;
+    width: 77%;
+    margin: 5em 5em 5em 8em;
+}
+
+label {
+    display: block;
+    margin: 1em;
+}
+
+form input {
+    height: 22px;
+}
+
+h1 {
+    padding: 33px 0 0 81px;
+}
+
+h3 {
+    padding: 5px 0 19px 81px;
+}
+
+textarea {
+    height: 146px;
+    margin-left: 17px;
+}
+
+#subject, span {
+    position: relative;
+}
+
+span {
+    bottom: 8em;
+}
+
+#third, select {
+    margin-left: 25px;
+}
+
+#subject {
+    top: 0;
+    right: -1em;
+}
+
+#submit {
+    width: 25%;
+    margin: 10px 0 10px 96px;
+    height: 39px;
+    color: #fff;
+    border-radius: 5px;
+    border: 0;
+    background: #e27575;
+}
+
+select, textarea, form input {
+    width: 50%;
+}

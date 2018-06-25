@@ -1,0 +1,175 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+header {
+    background: url("img/background-header.jpg") no-repeat;
+    background-size: cover;
+    height: 33em;
+    text-align: center;
+}
+
+#logo {
+    width: 14%;
+    margin: 10px;
+    float: left;
+    display: block;
+}
+
+#paragraph1 {
+    text-shadow: 3px 2px gray;
+    font-style: italic;
+    font-weight: bold;
+    position: relative;
+    top: 153px;
+    width: 51%;
+    left: 280px;
+    font-size: 17px;
+}
+
+h1 {
+    font-size: 45px;
+    position: relative;
+    right: 87px;
+    top: 145px;
+}
+
+#hall {
+    color: #ACAAB0;
+    position: relative;
+    right: 4em;
+    top: 6em;
+}
+
+#buttons {
+    position: relative;
+    top: 12em;
+}
+
+#learn-more {
+    background: #332E62;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    width: 10em;
+    height: 2em;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#download {
+    background: #F42257;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    width: 10em;
+    height: 2em;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+i {
+    font-size: 70px;
+    padding: 30px;
+    border-radius: 100px;
+    content: "\f303";
+    color: #C17F3F;
+    border: 3px solid #C17F3F;
+    margin: 10px;
+}
+
+section {
+    text-align: center;
+}
+
+article {
+    display: inline-block;
+    width: 30%;
+    margin-bottom: 15px;
+}
+
+.art {
+    font-size: 12px;
+    margin: 5px;
+}
+#planet{
+    background: url("img/moon.jpg");
+    background-size: cover;
+    height: 28em;
+    color: white;
+    text-align: center;
+}
+#final{
+    background: rgba(44, 53, 63, 2);
+    border: 3px solid #AC783E;
+    width: 28%;
+    height: 20em;
+    position: relative;
+    right: 20em;
+}
+.clients{
+    border-radius: 100px;
+    background: #FFB553;
+    color: black;
+    width: 105px;
+    height: 105px;
+    margin: 23px;
+    font-size: 15px;
+}
+#ligula{
+    margin-top: 10px;
+}
+#circus{
+    font-size: 10px;
+    font-style: italic;
+    margin: 20px;
+}
+#para{
+    font-size: 11px;
+    margin-left: 30px;
+    width: 80%;
+}
+span{
+    text-transform: capitalize;
+    color: #FC691E;
+}
+footer{
+    background: black;
+    color: white;
+    height: 72px;
+    margin: 0;
+}
+footer p{
+    display: inline-block;
+    margin-left: 15px;
+}
+#one, #two, #three {
+    border-radius: 100px;
+    font-size: 25px;
+    padding: 10px;
+}
+#one{
+    color: #0000FF;
+    border: 2px solid #0000FF;
+
+}
+#two{
+    color: #00C4FF;
+    border: 2px solid #00C4FF;
+
+}
+#three{
+    color: #632DA2;
+    border: 2px solid #632DA2;
+}
+footer div{
+    margin-left: 28em;
+    display: inline-block;
+}

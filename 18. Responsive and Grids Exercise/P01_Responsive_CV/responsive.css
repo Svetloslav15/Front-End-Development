@@ -1,0 +1,43 @@
+@media screen and (max-width: 740px) {
+    header.clearfix{
+        flex-flow: column;
+        display: flex;
+        text-align: center;
+    }
+    section#skills{
+        flex-flow: row;
+    }
+    h2{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    section#skills-left{
+        display: block;
+        width: 100%;
+    }
+    section#skills-left ul li{
+        display: inline-block;
+        width: 35%;
+        padding-left: 0;
+    }
+    section#skills-right ul li{
+        display: inline-block;
+        width: 35%;
+        padding-left: 0;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    section#skills-left ul li{
+        display: inline-block;
+        width: 20%;
+        padding-left: 0;
+    }
+    section#skills-right ul li{
+        display: inline-block;
+        width: 42%;
+        padding-left: 0;
+    }
+}

@@ -1,0 +1,12 @@
+@media only screen and (min-width: 466px) and (max-width: 979px){
+    nav .wrap-nav{
+        width: 100%;
+    }
+    nav .wrap-nav .menu{
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 465px) {
+
+}

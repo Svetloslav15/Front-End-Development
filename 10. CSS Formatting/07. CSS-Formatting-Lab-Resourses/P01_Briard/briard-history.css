@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster ');
+body{
+    font-family: "Lobster";
+    width: 70%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+h1{
+    color: #0088E3;
+    text-shadow: 2px 2px #9CA7AF;
+    text-align: center;
+    text-transform: capitalize;
+}
+img{
+    width: 150px;
+    height: 200px;
+    float: left;
+    padding: 0 10px 0 0;
+}
+h2, .brand{
+    color: #2EA5E8;
+    text-align: center;
+}
+span{
+    float: right;
+}
+p:first-letter{
+    text-transform: uppercase;
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Service Estimate</title>
+    <link rel="stylesheet" href="service-estimate.css" type="text/css">
+</head>
+<body>
+<form>
+    <h1>BASIC CALCULATED FIELDS SAMPLE.</h1>
+    <section>
+        <label id="first-row">
+            <p>Distance (MI)*</p>
+            <input type="text" placeholder="Enter Distance">
+        </label>
+    </section>
+    <section>
+        <label id="weight">
+            <p>WEIGHT (LB)</p>
+            <input type="text" placeholder="Enter Weight">
+        </label>
+        <label id="fragile">
+            <p>FRAGILE</p>
+            <select name="fragile">
+                <option value="option1">No</option>
+                <option value="option2">option2</option>
+                <option value="option3">option3</option>
+            </select>
+        </label>
+    </section>
+    <section id="third-row">
+        <label id="length">
+            <p>LENGTH (LB)</p>
+            <input type="text" placeholder="Length">
+        </label>
+        <label id="height">
+            <p>HEIGHT (IN)</p>
+            <input type="text" placeholder="height">
+        </label>
+        <label id="width">
+            <p>WIDTH (IN)</p>
+            <input type="text" placeholder="10">
+        </label>
+    </section>
+    <section id="services">
+        <label>
+            <span>EXTRA SERVICES:</span>
+        </label>
+        <label>
+            <input type="radio"><span>Insurance</span>
+        </label>
+        <label>
+            <input type="radio"><span>Express Delivery</span>
+        </label>
+    </section>
+    <section>
+        <span id="total">TOTAL: </span><span id="bill">$ 00.00</span>
+    </section>
+</form>
+</body>
+</html>

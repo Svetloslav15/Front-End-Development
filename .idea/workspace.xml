@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc20fb54-f3b1-44a3-91eb-3e5f3763dafb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/02. HTML Structure Lab/01.Navigation Bar/nav-bar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/02. HTML Structure Lab/01.Navigation Bar/nav-bar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/02. HTML Structure Lab/02. Page Content/page-content.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/02. HTML Structure Lab/02. Page Content/page-content.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/02. HTML Structure Lab/04. Exam Results/exam-results.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/02. HTML Structure Lab/04. Exam Results/exam-results.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/02. Definition Lists.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/03. Reversed List/reversed-list.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/03. Reversed List/reversed-list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/04. The Runners Home/runners-home.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/04. The Runners Home/runners-home.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/05. Simple Navigation Bar/simple-nav-bar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/05. Simple Navigation Bar/simple-nav-bar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/06. Simple Article/cat.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/06. Simple Article/simple-article.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/06. Simple Article/simple-article.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/07. Table/table.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03. HTML and CSS Overview Exercise/07. Table/table.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/04. HTML and CSS Overview - More Exercises/01. Create Header/background-image.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/04. HTML and CSS Overview - More Exercises/01. Create Header/create-header.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/04. HTML and CSS Overview - More Exercises/01. Create Header/create-header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/04. HTML and CSS Overview - More Exercises/02. Create Content/create-content.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/04. HTML and CSS Overview - More Exercises/02. Create Content/create-content.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/04. HTML and CSS Overview - More Exercises/02. Create Content/innovation-cloud.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/04. HTML and CSS Overview - More Exercises/03. Book Story/book-story.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/04. HTML and CSS Overview - More Exercises/03. Book Story/book-story.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/04. HTML and CSS Overview - More Exercises/05. Conference/conference.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/04. HTML and CSS Overview - More Exercises/05. Conference/conference.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/08. CSS Exercise/01. Future of Cars/the-future-of-cars.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/08. CSS Exercise/02. Food Page/food-page.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/08. CSS Exercise/03. Recipe Card/resipe-card.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/08. CSS Exercise/04. Web Agency/web-agency.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/09. CSS More/01.Potato/potato.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. CSS Formatting/07. CSS-Formatting-Lab-Resourses/P01_Briard/briard-history.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. CSS Formatting/07. CSS-Formatting-Lab-Resourses/P01_Briard/briard-history.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10. CSS Formatting/07. CSS-Formatting-Lab-Resourses/P02_Autumn/Golden-Autumn.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11.CSS Positoring/01.SocialMedia/social-media.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11.CSS Positoring/01.SocialMedia/social-media.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11.CSS Positoring/02.Drop Down/drop-down-menu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11.CSS Positoring/02.Drop Down/drop-down-menu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.CSS Formatting and Positioning Exercise/01.Book Review/book_review.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.CSS Formatting and Positioning Exercise/01.Book Review/book_review.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.CSS Formatting and Positioning Exercise/02. Option Panels/option-panels.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.CSS Formatting and Positioning Exercise/02. Option Panels/option-panels.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.CSS Formatting and Positioning Exercise/03. Numbers/numbers.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.CSS Formatting and Positioning Exercise/03. Numbers/numbers.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.CSS Formatting and Positioning Exercise/04. Services/services.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12.CSS Formatting and Positioning Exercise/04. Services/sevices.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13. Creating Landing Pages/P01_ConsultingAgency/consulting-agency.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13. Creating Landing Pages/P01_ConsultingAgency/consulting-agency.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/14. HTML Forms and Styling/P01_LoginFormImages/login-form.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/14. HTML Forms and Styling/P01_LoginFormImages/login-form.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/14. HTML Forms and Styling/P04_ContactForm/contact-form.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/14. HTML Forms and Styling/P04_ContactForm/contact-form.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/14. HTML Forms and Styling/P05_ArrangingTheWidths/arranging-the-widths.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/15. HTML Landing Pages and Forms Exercise/P01_Search-Job/search-job.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/15. HTML Landing Pages and Forms Exercise/P02_ConferenceLanding/code-mesh.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/15. HTML Landing Pages and Forms Exercise/P02_ConferenceLanding/code-mesh.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/18. Responsive and Grids Exercise/P08_Grid-Alignment/grid-alignment.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/18. Responsive and Grids Exercise/P09_Responsive-Grid/grid-alignment.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 04 March 2018/01.Inside the Storm/inside-the-storm.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 04 March 2018/01.Inside the Storm/inside-the-storm.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 04 March 2018/03_MountainMarch/mountain-march.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 04 March 2018/03_MountainMarch/mountain-march.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 04 March 2018/04_MountainKing/mountain-king.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 04 March 2018/04_MountainKing/mountain-king.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 29 Oct/03.MountainForm/mountain-form.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 29 Oct/03.MountainForm/mountain-form.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 25 April 2018/01. Extreme Sports/extreme-sport.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 25 April 2018/01. Extreme Sports/extreme-sports.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 25 April 2018/03. Toya Form/toya-form.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 25 April 2018/03. Toya Form/toya-form.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/fluffy-care.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/fluffy-care.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 4 Jan/01. Green-Peace/green-peace.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 4 Jan/01. Green-Peace/green-peace.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 4 Jan/03. Cargo-Service/service-estimate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 4 Jan/03. Cargo-Service/service-estimate.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/intense.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/intense.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="mountain-landing.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="303">
+                  <caret line="97" column="18" lean-forward="false" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="text.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/text.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="20" column="121" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="121" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="mountain-landing.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="461">
+                  <caret line="151" column="11" lean-forward="false" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>width</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/16. Responsive Design/P04_HR_Company/hr-company.html" />
+        <option value="$PROJECT_DIR$/Exam 04 March 2018/04_MountainKing/text.txt" />
+        <option value="$PROJECT_DIR$/Exam 04 March 2018/04_MountainKing/mountain-king.html" />
+        <option value="$PROJECT_DIR$/Exam 04 March 2018/04_MountainKing/mountain-king.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P02_Creative-Lab/creative-lab.html" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P02_Creative-Lab/responsive.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P01_Responsive_CV/responsive.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P03_Mandarin_Bird/mandarin-bird.html" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P03_Mandarin_Bird/responsive.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P04_ProductPage/styles.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P04_ProductPage/responsive.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P06_Planets/styles.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P06_Planets/planets.html" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P06_Planets/responsive.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P08_Grid-Alignment/grid-alignment.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P09_Responsive-Grid/grid-alignment.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P07_Communication-Company/styles.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P07_Communication-Company/responsive.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P05_Responsive_Cars/styles.css" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P05_Responsive_Cars/cars.html" />
+        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P05_Responsive_Cars/responsive.css" />
+        <option value="$PROJECT_DIR$/Exam 04 March 2018/02_ResponsiveMountain/respons-page.html" />
+        <option value="$PROJECT_DIR$/Exam 04 March 2018/02_ResponsiveMountain/style-respons.css" />
+        <option value="$PROJECT_DIR$/Retake Exam 25 April 2018/01. Extreme Sports/extreme-sport.html" />
+        <option value="$PROJECT_DIR$/Retake Exam 25 April 2018/01. Extreme Sports/extreme-sports.css" />
+        <option value="$PROJECT_DIR$/Retake Exam 25 April 2018/02. Luxary Home/luxury-home.html" />
+        <option value="$PROJECT_DIR$/Retake Exam 25 April 2018/02. Luxary Home/luxury-home.css" />
+        <option value="$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/fluffy-cate.html" />
+        <option value="$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/fluffy-care.html" />
+        <option value="$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/fluffy-care.css" />
+        <option value="$PROJECT_DIR$/Retake Exam 25 April 2018/03. Toya Form/toya-form.html" />
+        <option value="$PROJECT_DIR$/Retake Exam 25 April 2018/03. Toya Form/toya-form.css" />
+        <option value="$PROJECT_DIR$/Exam 04 March 2018/03_MountainMarch/mountain-march.css" />
+        <option value="$PROJECT_DIR$/Exam 04 March 2018/03_MountainMarch/mountain-march.html" />
+        <option value="$PROJECT_DIR$/Retake Exam 4 Jan/01. Green-Peace/text.txt" />
+        <option value="$PROJECT_DIR$/Retake Exam 4 Jan/01. Green-Peace/green-peace.html" />
+        <option value="$PROJECT_DIR$/Retake Exam 4 Jan/01. Green-Peace/green-peace.css" />
+        <option value="$PROJECT_DIR$/Retake Exam 4 Jan/02. Pink-Donut/assets/css/responsive.css" />
+        <option value="$PROJECT_DIR$/Retake Exam 4 Jan/03. Cargo-Service/service-estimate.html" />
+        <option value="$PROJECT_DIR$/Retake Exam 4 Jan/03. Cargo-Service/service-estimate.css" />
+        <option value="$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/text.txt" />
+        <option value="$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/intense.html" />
+        <option value="$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/intense.css" />
+        <option value="$PROJECT_DIR$/16. Responsive Design/P04_HR_Company/hr-company.css" />
+        <option value="$PROJECT_DIR$/Exam 29 Oct/02.MountainResponsive/index.html" />
+        <option value="$PROJECT_DIR$/Exam 29 Oct/02.MountainResponsive/responsive.css" />
+        <option value="$PROJECT_DIR$/Exam 29 Oct/03.MountainForm/mountain-form.html" />
+        <option value="$PROJECT_DIR$/Exam 29 Oct/03.MountainForm/mountain-form.css" />
+        <option value="$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/text.txt" />
+        <option value="$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.html" />
+        <option value="$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-7" />
+    <option name="width" value="1380" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="16. Responsive Design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="16. Responsive Design" type="462c0819:PsiDirectoryNode" />
+              <item name="P03_Bank_Credit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="16. Responsive Design" type="462c0819:PsiDirectoryNode" />
+              <item name="P04_HR_Company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="18. Responsive and Grids Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam 29 Oct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam 29 Oct" type="462c0819:PsiDirectoryNode" />
+              <item name="04.MountainLanding" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Softuni\08.Web Development Basics\15. HTML Landing Pages and Forms Exercise\P01_Search-Job" />
+      <recent name="D:\Softuni\08.Web Development Basics\10. CSS Formatting\07. CSS-Formatting-Lab-Resourses\P01_Briard" />
+      <recent name="D:\Softuni\08.Web Development Basics\04. HTML and CSS Overview - More Exercises\02. Create Content" />
+      <recent name="D:\Softuni\08.Web Development Basics\04. HTML and CSS Overview - More Exercises\01. Create Header" />
+      <recent name="D:\Softuni\08.Web Development Basics\05. CCS In Depth\01. Plan Page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.contact-form.html">
+    <configuration name="conference.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/08.Web Development Basics/04. HTML and CSS Overview - More Exercises/05. Conference/conference.html" />
+    <configuration name="contact-form.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/08.Web Development Basics/14. HTML Forms and Styling/P04_ContactForm/contact-form.html" />
+    <configuration name="numbers.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/08.Web Development Basics/12.CSS Formatting and Positioning Exercise/03. Numbers/numbers.html" />
+    <configuration name="social-media.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/08.Web Development Basics/11.CSS Positoring/01.SocialMedia/social-media.html" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.conference.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.social-media.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.numbers.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.contact-form.html" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.contact-form.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.numbers.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.social-media.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.conference.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc20fb54-f3b1-44a3-91eb-3e5f3763dafb" name="Default" comment="" />
+      <created>1527522751170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527522751170</updated>
+      <workItem from="1527522752465" duration="7845000" />
+      <workItem from="1527562215798" duration="7758000" />
+      <workItem from="1527785408931" duration="604000" />
+      <workItem from="1527789301258" duration="3016000" />
+      <workItem from="1527821483365" duration="10953000" />
+      <workItem from="1527919100067" duration="18849000" />
+      <workItem from="1528091258677" duration="4242000" />
+      <workItem from="1528308173177" duration="2695000" />
+      <workItem from="1528732837794" duration="3649000" />
+      <workItem from="1528778980139" duration="9065000" />
+      <workItem from="1528829487809" duration="4377000" />
+      <workItem from="1528865405290" duration="6933000" />
+      <workItem from="1528911448960" duration="50000" />
+      <workItem from="1529003371595" duration="1493000" />
+      <workItem from="1529075531166" duration="11000" />
+      <workItem from="1529091505040" duration="1627000" />
+      <workItem from="1529129222746" duration="16093000" />
+      <workItem from="1529158906986" duration="6713000" />
+      <workItem from="1529221404347" duration="8955000" />
+      <workItem from="1529467238701" duration="10238000" />
+      <workItem from="1529560205355" duration="98000" />
+      <workItem from="1529571601874" duration="3326000" />
+      <workItem from="1529602750234" duration="171000" />
+      <workItem from="1529603833917" duration="8628000" />
+      <workItem from="1529643185027" duration="604000" />
+      <workItem from="1529733962547" duration="22686000" />
+      <workItem from="1529760178146" duration="5690000" />
+      <workItem from="1529777926632" duration="6826000" />
+      <workItem from="1529784864684" duration="909000" />
+      <workItem from="1529819182356" duration="15394000" />
+      <workItem from="1529870254161" duration="296000" />
+      <workItem from="1529870711576" duration="182000" />
+      <workItem from="1529901964753" duration="7980000" />
+      <workItem from="1529912927147" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="198555000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1380" height="735" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2313988" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2313988" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/01. Extreme Sports/extreme-sport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/01. Extreme Sports/extreme-sports.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/02. Luxary Home/luxury-home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="74" lean-forward="false" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/fluffy-cate.html" />
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/02. Luxary Home/luxury-home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="313" column="3" lean-forward="false" selection-start-line="313" selection-start-column="3" selection-end-line="313" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/images/background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/images/logo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/images/What-We-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/images/OurStory-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/fluffy-care.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="89" column="22" lean-forward="false" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/fluffy-care.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="62" column="29" lean-forward="false" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/03. Toya Form/toya-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="37" column="69" lean-forward="false" selection-start-line="37" selection-start-column="69" selection-end-line="37" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/03. Toya Form/toya-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="78" column="19" lean-forward="false" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 04 March 2018/03_MountainMarch/mountain-march.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 04 March 2018/03_MountainMarch/mountain-march.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="60" column="7" lean-forward="false" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/01. Green-Peace/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="62" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/01. Green-Peace/green-peace.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="31" column="73" lean-forward="false" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/01. Green-Peace/green-peace.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/02. Pink-Donut/assets/css/fonticons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/02. Pink-Donut/screenshots/992px.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/02. Pink-Donut/screenshots/769px.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/02. Pink-Donut/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/02. Pink-Donut/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/02. Pink-Donut/assets/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/02. Pink-Donut/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/03. Cargo-Service/service-estimate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/03. Cargo-Service/service-estimate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="65" column="19" lean-forward="false" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/images/logo-dark-187x32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/images/logo-footer-209x56.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/images/icon-01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/images/bg-01-1920x908.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.CSS Positoring/02.Drop Down/drop-down-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.CSS Positoring/02.Drop Down/drop-down-menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/intense.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="162" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/04. Intense/intense.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="177" column="1" lean-forward="false" selection-start-line="177" selection-start-column="1" selection-end-line="177" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16. Responsive Design/P03_Bank_Credit/bank-credit.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-448">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 29 Oct/02.MountainResponsive/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2397">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 04 March 2018/02_ResponsiveMountain/respons-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="74" lean-forward="true" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 04 March 2018/02_ResponsiveMountain/style-respons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="177" column="22" lean-forward="true" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16. Responsive Design/P04_HR_Company/hr-company.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 29 Oct/02.MountainResponsive/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="74" lean-forward="false" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 29 Oct/02.MountainResponsive/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16. Responsive Design/P04_HR_Company/hr-company.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 29 Oct/03.MountainForm/mountain-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="37" column="56" lean-forward="false" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 29 Oct/03.MountainForm/mountain-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/images/logo_white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="121" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="97" column="18" lean-forward="false" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="151" column="11" lean-forward="false" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body{
+    font-family: "Lato", sans-serif;
+}
+
+#main{
+    display: flex;
+    width: 71%;
+    margin: 50px auto;
+}
+#mountain{
+    background: url("img/peak.jpg"), linear-gradient(#A53778, #9A94D4);
+    background-size: cover;
+    height: 500px;
+    width: 50%;
+    color: white;
+    text-align: center;
+    border-bottom-left-radius: 23px;
+    border-top-left-radius: 23px;
+}
+#mountain p{
+    margin-top: 13em;
+    font-size: 20px;
+}
+#mountain h1{
+    font-size: 35px;
+}
+form{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    margin: 0 auto;
+    width: 25%;
+    border: 3px solid #8A2968;
+    padding: 0 7em;
+    border-bottom-right-radius: 23px;
+    border-top-right-radius: 23px;
+}
+input{
+    border: none;
+    border-bottom: 1px solid gray;
+}
+#buttons{
+    display: flex;
+    margin-top: 15px;
+}
+#button{
+    color: white;
+    border-radius: 12px;
+    width: 54%;
+    background: #8A2968;
+    margin-right: 5px;
+    cursor: pointer;
+}
+a{
+    color: #8A2968;
+    text-shadow: 1px 1px gray;
+    text-decoration: none;
+}
+#remove{
+    color: #8A2968;
+    position: relative;
+    bottom: 2em;
+    left: 17em;
+}

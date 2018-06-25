@@ -1,0 +1,44 @@
+header{
+    background-color: #DDDDDD;
+    text-align: center;
+    color: #9470DC;
+    padding: 6px;
+    border-radius: 15px;
+    position: relative;
+    top: 100px;
+    width: 80%;
+    margin: 0 auto;
+}
+main{
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    top: 120px;
+    right: -41px;
+}
+section{
+    display: inline-block;
+    width: 20%;
+    margin-right: 45px;
+    text-align: center;
+    background-color: #EEEEEE;
+}
+svg{
+    width: 100%;
+}
+svg:hover circle{
+    fill: white;
+}
+button{
+    width: 90%;
+    border-radius: 8px;
+    height: 28px;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+button:hover{
+    background-color: white;
+}
+body h1{
+    text-transform: capitalize;
+}
