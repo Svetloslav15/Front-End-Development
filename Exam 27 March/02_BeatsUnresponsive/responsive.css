@@ -1,0 +1,28 @@
+@media only screen and (max-width: 639px) {
+    *{
+        text-align: center;
+    }
+    .nav-primary{
+        flex-direction: column;
+    }
+    .nav-primary li{
+        padding: 3px;
+    }
+    main, .second-row{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .second-row div{
+        width: 100%;
+        background-size: cover;
+        height: 18em;
+    }
+    .product-img{
+        width: 49%;
+    }
+    .mixr-left, .urbeats-right{
+        display: block;
+        padding: 0;
+    }
+}

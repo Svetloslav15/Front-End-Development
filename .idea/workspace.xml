@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc20fb54-f3b1-44a3-91eb-3e5f3763dafb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 27 March/01_BeatsPricingPage/beats-product-page.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 27 March/01_BeatsPricingPage/beats-product-page.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 27 March/03_BeatsOrderForm/beats-order-form.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 27 March/03_BeatsOrderForm/beats-order-form.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/beats-landing-page.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/beats-landing-page.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,23 +23,15 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="mountain-landing.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.html">
+        <leaf>
+          <file leaf-file-name="beats-landing-page.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/beats-landing-page.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="167">
-                  <caret line="89" column="52" lean-forward="false" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="text.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/text.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
-                  <caret line="20" column="121" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="121" />
-                  <folding />
+                <state relative-caret-position="1122">
+                  <caret line="66" column="31" lean-forward="false" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+                  <folding>
+                    <element signature="e#2207#2213#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -41,22 +39,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="mountain-landing.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.css">
+        <leaf>
+          <file leaf-file-name="beats-landing-page.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/beats-landing-page.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="172">
-                  <caret line="134" column="1" lean-forward="true" selection-start-line="134" selection-start-column="1" selection-end-line="134" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="service-estimate.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/03. Cargo-Service/service-estimate.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="368">
-                  <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+                <state relative-caret-position="459">
+                  <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
                   <folding />
                 </state>
               </provider>
@@ -85,17 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/16. Responsive Design/P04_HR_Company/hr-company.html" />
-        <option value="$PROJECT_DIR$/Exam 04 March 2018/04_MountainKing/text.txt" />
-        <option value="$PROJECT_DIR$/Exam 04 March 2018/04_MountainKing/mountain-king.html" />
-        <option value="$PROJECT_DIR$/Exam 04 March 2018/04_MountainKing/mountain-king.css" />
-        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P02_Creative-Lab/creative-lab.html" />
-        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P02_Creative-Lab/responsive.css" />
-        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P01_Responsive_CV/responsive.css" />
-        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P03_Mandarin_Bird/mandarin-bird.html" />
-        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P03_Mandarin_Bird/responsive.css" />
-        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P04_ProductPage/styles.css" />
-        <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P04_ProductPage/responsive.css" />
         <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P06_Planets/styles.css" />
         <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P06_Planets/planets.html" />
         <option value="$PROJECT_DIR$/18. Responsive and Grids Exercise/P06_Planets/responsive.css" />
@@ -136,6 +113,17 @@
         <option value="$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/text.txt" />
         <option value="$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.css" />
         <option value="$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.html" />
+        <option value="$PROJECT_DIR$/Exam 27 March/01_BeatsPricingPage/beats-product-page.html" />
+        <option value="$PROJECT_DIR$/Exam 27 March/01_BeatsPricingPage/beats-product-page.css" />
+        <option value="$PROJECT_DIR$/Exam 27 March/02_BeatsUnresponsive/beats-unresponsive.html" />
+        <option value="$PROJECT_DIR$/Exam 27 March/02_BeatsUnresponsive/beats-unresponsive.css" />
+        <option value="$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/beats-order-form.html" />
+        <option value="$PROJECT_DIR$/Exam 27 March/02_BeatsUnresponsive/responsive.css" />
+        <option value="$PROJECT_DIR$/Exam 27 March/03_BeatsOrderForm/beats-order-form.html" />
+        <option value="$PROJECT_DIR$/Exam 27 March/03_BeatsOrderForm/beats-order-form.css" />
+        <option value="$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/text.txt" />
+        <option value="$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/beats-landing-page.html" />
+        <option value="$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/beats-landing-page.css" />
       </list>
     </option>
   </component>
@@ -190,8 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,47 +188,27 @@
             <path>
               <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="16. Responsive Design" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam 27 March" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="16. Responsive Design" type="462c0819:PsiDirectoryNode" />
-              <item name="P03_Bank_Credit" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam 27 March" type="462c0819:PsiDirectoryNode" />
+              <item name="04_BeatsLandingPage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="16. Responsive Design" type="462c0819:PsiDirectoryNode" />
-              <item name="P04_HR_Company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="18. Responsive and Grids Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 04 March 2018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 04 March 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="03_MountainMarch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="01. Web Development Basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01. Web Development Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 04 March 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="03_MountainMarch" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam 27 March" type="462c0819:PsiDirectoryNode" />
+              <item name="04_BeatsLandingPage" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,7 +216,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../03. JS-Core/02. JavaScript-Advanced" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -258,11 +224,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Softuni\04. Front-End-Development\01. Web Development Basics\Exam 27 March\03_BeatsOrderForm" />
       <recent name="D:\Softuni\08.Web Development Basics\15. HTML Landing Pages and Forms Exercise\P01_Search-Job" />
       <recent name="D:\Softuni\08.Web Development Basics\10. CSS Formatting\07. CSS-Formatting-Lab-Resourses\P01_Briard" />
       <recent name="D:\Softuni\08.Web Development Basics\04. HTML and CSS Overview - More Exercises\02. Create Content" />
       <recent name="D:\Softuni\08.Web Development Basics\04. HTML and CSS Overview - More Exercises\01. Create Header" />
-      <recent name="D:\Softuni\08.Web Development Basics\05. CCS In Depth\01. Plan Page" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -345,25 +311,27 @@
       <workItem from="1529901964753" duration="7980000" />
       <workItem from="1529912927147" duration="605000" />
       <workItem from="1529942117548" duration="352000" />
+      <workItem from="1530340326328" duration="13936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198913000" />
+    <option name="totallyTimeSpent" value="212849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23099852" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23323397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -379,17 +347,17 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2313988" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23323397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,105 +371,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/02. Luxary Home/luxury-home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="74" lean-forward="false" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/fluffy-cate.html" />
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/02. Luxary Home/luxury-home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="313" column="3" lean-forward="false" selection-start-line="313" selection-start-column="3" selection-end-line="313" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/images/background.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/images/logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/images/What-We-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/images/OurStory-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/fluffy-care.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="89" column="22" lean-forward="false" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/04. Fluffy Care/fluffy-care.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="62" column="29" lean-forward="false" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/03. Toya Form/toya-form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="37" column="69" lean-forward="false" selection-start-line="37" selection-start-column="69" selection-end-line="37" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/03. Toya Form/toya-form.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="78" column="19" lean-forward="false" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam 04 March 2018/03_MountainMarch/mountain-march.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam 04 March 2018/03_MountainMarch/mountain-march.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="60" column="7" lean-forward="false" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/01. Green-Peace/text.txt" />
-    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/01. Green-Peace/green-peace.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="31" column="73" lean-forward="false" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/01. Green-Peace/green-peace.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/02. Pink-Donut/assets/css/fonticons.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -670,6 +539,24 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/03. Toya Form/screenshot/scrennshot.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 04 March 2018/03_MountainMarch/screenshots/form-exam.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="98" column="3" lean-forward="false" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -678,36 +565,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.html">
+    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/03. Cargo-Service/service-estimate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="89" column="52" lean-forward="false" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
+        <state relative-caret-position="368">
+          <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 25 April 2018/03. Toya Form/screenshot/scrennshot.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exam 29 Oct/04.MountainLanding/mountain-landing.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
-          <caret line="134" column="1" lean-forward="true" selection-start-line="134" selection-start-column="1" selection-end-line="134" selection-end-column="1" />
+          <caret line="134" column="1" lean-forward="false" selection-start-line="134" selection-start-column="1" selection-end-line="134" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exam 04 March 2018/03_MountainMarch/screenshots/form-exam.png">
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/01_BeatsPricingPage/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/01_BeatsPricingPage/beats-product-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="60" lean-forward="false" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/01_BeatsPricingPage/beats-product-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/02_BeatsUnresponsive/beats-unresponsive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/02_BeatsUnresponsive/beats-unresponsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/02_BeatsUnresponsive/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/03_BeatsOrderForm/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/03_BeatsOrderForm/beats-order-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="39" column="53" lean-forward="false" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/03_BeatsOrderForm/beats-order-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/img/beats-red.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Retake Exam 4 Jan/03. Cargo-Service/service-estimate.html">
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/img/powerbeats.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/img/beats-girl.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/img/beats-logo-small-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/img/beats-landing-main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/text.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/beats-landing-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="31" lean-forward="false" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+          <folding>
+            <element signature="e#2207#2213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam 27 March/04_BeatsLandingPage/beats-landing-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding />
         </state>
       </provider>
