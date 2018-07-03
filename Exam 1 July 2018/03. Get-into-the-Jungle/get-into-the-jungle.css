@@ -86,7 +86,3 @@ i{
 #create-account a{
     color: #7E7F7F;
 }
-input[type=radio]{
-    border: 5px solid #0DFF92;
-    background-color: white;
-}
